@@ -9,8 +9,6 @@
 
 ## <picture><img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnl4ZDN5bGU4cG5pbW56a3V2ODJnY3ZrNnR3dmdvczZ4enR6MjVkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnQWBOGVavTFK/giphy.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 <br>
 
 - Passionate about frontend development, with a focus on React and its ecosystem.
@@ -91,7 +89,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <img src="https://media.tenor.com/zhgC3tuHbXcAAAAi/phone-texting.gif" width ="50"><b> Contact...</b>
 <br>
 <div align='left'>
 
