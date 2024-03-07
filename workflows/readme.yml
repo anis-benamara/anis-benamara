@@ -1,0 +1,26 @@
+name: Profile Readme Updater
+
+on:
+  workflow_run:
+    workflows: ["Build README"]
+    types:
+      - completed
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    if: github.event.workflow_run.conclusion == 'success'
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+        with:
+          repository: ${{ github.repository }}
+          ref: ${{ github.sha }}
+      
+      - name: Run Profile Readme Updater
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch
+          git checkout ${{ github.event.workflow_run.head_branch }}
+          git pull origin ${{ github.event.workflow_run.head_branch }}
