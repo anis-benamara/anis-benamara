@@ -117,6 +117,5 @@
 <br>
 <br>
 
-
-[![Profile Readme Updater](https://github.com/anis-benamara/anis-benamara/actions/workflows/update-readme.yml/badge.svg)](https://github.com/anis-benamara/anis-benamara/actions/workflows/update-readme.yml)
+Last Edited on: 7 March, 2024
 
