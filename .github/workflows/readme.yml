@@ -2,7 +2,7 @@ name: Profile Readme Updater
 
 on:
   workflow_run:
-    workflows: ["Profile Readme Updater"]
+    workflows: ["Build README"]
     types:
       - completed
 
