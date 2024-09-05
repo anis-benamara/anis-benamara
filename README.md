@@ -1,11 +1,9 @@
 
 <h1 align="center"><b>Hi, I'm Anis Ben Amara </b></h1>
 
-<br>
-
 ## About me
 
-- Passionate about front-end development, with a focus on React and its ecosystem.
+- Passionate about front-end development, focusing on React and its ecosystem.
 - Enthusiastically explore the vast software landscape, including cloud technologies, AI, and DevOps.
 - Emphasize the significance of human interactions and effective communication in software development.
 - Dedicated to implementing best practices and efficient project management within organizations.
@@ -76,5 +74,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
-Last Edited on: 7 March, 2024
+Last Edited on: 5 September, 2024
 
