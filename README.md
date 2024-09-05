@@ -68,7 +68,7 @@
 <br>
 
 <li>
-<a href="mailto:Anis.BenAmara@gmail.com" target="_blank">
+<a href="mailto:anis.b.amara@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Anis.BenAmara-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
