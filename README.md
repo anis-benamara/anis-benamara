@@ -25,8 +25,8 @@ I'm a frontend developer focused on building modern, responsive web applications
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anis-ben-amara/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anis.b.amara@gmail.com)
 
 ---
 
